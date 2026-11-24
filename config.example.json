@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "admin_list": [123456789],
+  "payok": {
+    "apiId": 0,
+    "apiKey": "",
+    "secretKey": "",
+    "shop": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "shop-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot: a small shop for digital codes with balance, order history and payment webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@puregram/hear": "^2.0.2-rc.1",
+    "@puregram/scenes": "^2.0.1-rc.1",
+    "@puregram/session": "^2.0.2-rc.1",
+    "nodemon": "^2.0.17",
+    "payok": "^1.0.2",
+    "puregram": "^2.8.2"
+  }
+}
